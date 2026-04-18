@@ -10,3 +10,4 @@ vim.opt.softtabstop = 4
 vim.opt.ruler = true
 vim.g.autoformat = false
 vim.opt.colorcolumn = "100"
+vim.g.clipboard = 'osc52'
