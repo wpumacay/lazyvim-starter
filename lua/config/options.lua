@@ -11,3 +11,4 @@ vim.opt.ruler = true
 vim.g.autoformat = false
 vim.opt.colorcolumn = "100"
 vim.g.clipboard = 'osc52'
+vim.g.lazyvim_check_order = false
