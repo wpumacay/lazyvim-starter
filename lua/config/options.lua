@@ -11,4 +11,6 @@ vim.opt.ruler = true
 vim.g.autoformat = false
 vim.opt.colorcolumn = "100"
 vim.g.lazyvim_check_order = false
+vim.g.lazyvim_python_lsp = "pyright"
+vim.g.lazyvim_python_ruff = "ruff"
 

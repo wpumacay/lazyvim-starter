@@ -5,7 +5,6 @@ return {
     config = function()
       require("monokai-v2").setup()
       vim.cmd("colorscheme monokai-v2")
-      vim.cmd("MonokaiFilter ristretto")
     end,
   },
 }
