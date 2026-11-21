@@ -13,4 +13,5 @@ vim.opt.colorcolumn = "100"
 vim.g.lazyvim_check_order = false
 vim.g.lazyvim_python_lsp = "ty"
 vim.g.lazyvim_python_ruff = "ruff"
+vim.g.lazyvim_rust_diagnostics = "rust-analyzer"
 vim.opt.wrap = false
